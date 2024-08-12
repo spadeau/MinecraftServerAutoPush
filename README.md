@@ -14,7 +14,7 @@ messages:
   updateSuccess: "&a&lMAJ &a» Mise à jour des plugins en cours..."
 ```
 
-<br><br>
+<br>
 
 🇬🇧: In English<br>
 To ensure the plugin works correctly, please visit GitHub (https://github.com/settings/tokens) and create a new token with the "repo" permission (it's recommended to enable all permissions to avoid any issues). Then, navigate to the config.yml file:
