@@ -1,0 +1,8 @@
+github:
+  token: "TOKEN_GITHUB"
+  repo: "PSEUDO_GIT/NOM_DU_REPO"
+  target_folder_plugin: "/out/"
+
+messages:
+  noPermission: "&c&lErreur &c» Vous n'avez pas la permission d'utiliser cette commande."
+  updateSuccess: "&a&lMAJ &a» Mise à jour des plugins en cours..."

@@ -1,0 +1,12 @@
+name: MinecraftServerAutoPush
+main: fr.vertugo.autopush.ServerMain
+version: '1.0.0'
+
+commands:
+  update:
+    description: Manuellement forcer une mise à jour.
+
+permissions:
+  autopush.update:
+    description: Permet de forcer une mise à jour manuelle.
+    default: op
