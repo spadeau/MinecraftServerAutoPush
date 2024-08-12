@@ -1,6 +1,6 @@
 # MinecraftServerAutoPush
 
-🇫🇷 : En français
+🇫🇷 : En français<br>
 Pour pouvoir faire fonctionner le plugin correctement. Il faut se rendre sur github (https://github.com/settings/tokens) et créer un nouveau token avec comme permission "repo" (mettez toute les permissions cela pourrait faire des erreurs sinon). Ensuite rendez vous dans le config.yml:
 ```
 github:
